@@ -23,6 +23,8 @@ Follow these steps to run the application on your local machine:
 2. **Install dependencies**
    ```bash
    npm install
+
+   npm install dotenv 
    ```
 
 3. **Set up environment variables**
