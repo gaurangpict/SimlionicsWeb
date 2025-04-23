@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#f0f6ff"/>
+  <rect x="250" y="100" width="300" height="400" rx="15" fill="#0047AB"/>
+  <rect x="250" y="100" width="300" height="400" rx="15" stroke="#003380" stroke-width="10"/>
+  <rect x="270" y="120" width="260" height="360" rx="8" fill="#ffffff" fill-opacity="0.2"/>
+  <rect x="290" y="140" width="220" height="40" rx="5" fill="#60a5fa"/>
+  <rect x="290" y="200" width="220" height="40" rx="5" fill="#60a5fa"/>
+  <rect x="290" y="260" width="220" height="40" rx="5" fill="#60a5fa"/>
+  <rect x="290" y="320" width="220" height="40" rx="5" fill="#60a5fa"/>
+  <rect x="290" y="380" width="220" height="40" rx="5" fill="#60a5fa"/>
+  <rect x="310" y="120" width="2" height="360" fill="#003380" fill-opacity="0.5"/>
+  <rect x="350" y="120" width="2" height="360" fill="#003380" fill-opacity="0.5"/>
+  <rect x="390" y="120" width="2" height="360" fill="#003380" fill-opacity="0.5"/>
+  <rect x="430" y="120" width="2" height="360" fill="#003380" fill-opacity="0.5"/>
+  <rect x="470" y="120" width="2" height="360" fill="#003380" fill-opacity="0.5"/>
+  <text x="400" y="500" font-family="Arial" font-size="24" text-anchor="middle" fill="white">Electric Vehicle Battery Pack</text>
+</svg>
