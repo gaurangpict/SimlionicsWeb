@@ -1,5 +1,3 @@
-# SimlionicsWeb
-A modern web application built with React, Express, and TypeScript.
 # Simlionics Web Application
 
 A modern web application for battery simulation technology.
